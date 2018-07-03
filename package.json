@@ -1,6 +1,6 @@
 {
   "name": "example-files",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "This contains a set of example files helpful for various web development work and other tasks",
   "scripts": {
     "test": "echo \"No test specified\""
